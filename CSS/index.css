@@ -1,0 +1,34 @@
+@charset "utf8";
+
+*{
+    color: #fff;
+}
+
+.top{
+    text-align: center;
+    background-color: black;
+    font-size: 1.4em;
+}
+.top a{
+    margin: 20px;
+    font-size: 1.4em;
+    margin-bottom: 30px;
+}
+
+.top_1{
+    text-align: right;
+    background-color: black;
+    font-size: 1em;
+}
+
+.left{
+    background-color: rgba(163, 107, 116, 0.61);
+    text-align: center;
+    height: 800px;
+}
+
+.right{
+    background-color: rgba(120, 148, 163, 0.61);
+    text-align: center;
+    height: 90%;
+}
